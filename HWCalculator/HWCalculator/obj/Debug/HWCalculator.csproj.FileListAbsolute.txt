@@ -1,0 +1,7 @@
+C:\Users\itsvibel\source\repos\HWCalculator\HWCalculator\bin\Debug\HWCalculator.exe.config
+C:\Users\itsvibel\source\repos\HWCalculator\HWCalculator\bin\Debug\HWCalculator.exe
+C:\Users\itsvibel\source\repos\HWCalculator\HWCalculator\bin\Debug\HWCalculator.pdb
+C:\Users\itsvibel\source\repos\HWCalculator\HWCalculator\obj\Debug\HWCalculator.csprojAssemblyReference.cache
+C:\Users\itsvibel\source\repos\HWCalculator\HWCalculator\obj\Debug\HWCalculator.csproj.CoreCompileInputs.cache
+C:\Users\itsvibel\source\repos\HWCalculator\HWCalculator\obj\Debug\HWCalculator.exe
+C:\Users\itsvibel\source\repos\HWCalculator\HWCalculator\obj\Debug\HWCalculator.pdb
